@@ -1,5 +1,6 @@
 <template>
     <div>
+        <h2>Nos bières</h2>
         <ul>
             <li v-for="beer in beers">{{beer.name}}</li>
         </ul>
