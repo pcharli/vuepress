@@ -3,3 +3,5 @@ Hello page 2
 ## Pierre aime l'Eledorado
 
 ![An image](./images/eldorado.jpg)
+
+<Beers></Beers>
