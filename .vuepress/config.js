@@ -1,10 +1,7 @@
 module.exports = {
     themeConfig :{
-        sidebar: [
-            '/',
-            '/Page-1',
-            '/Page-2'
-        ],
+        sidebar: false,
+        search: false,
         nav: [
             {text: "Accueil", link: "/"},
             {text: "Contact", link: "/page-2"},
